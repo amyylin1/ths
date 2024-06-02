@@ -65,8 +65,8 @@ education:
     button:
       text: 'Read Project'
       # url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Neuroscience
+    institution: Boston University 
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
