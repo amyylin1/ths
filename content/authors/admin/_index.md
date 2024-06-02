@@ -10,7 +10,7 @@ first_name: Amy
 last_name: Lin
 
 # Status emoji
-status: Thinking 
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
